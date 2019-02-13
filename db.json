@@ -1,14 +1,20 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+[{
+	"parmInt1": 0,
+   "parmInt2": null,
+     "parmString1": "INSERTAR_USUARIO",
+      "parmString2": null,
+      "parmBool1": null,
+      "parmBool2": null,
+        "Id": 0,
+        "Login": "Test",
+        "Password": "123456",
+        "PasswordConfirmacion":"123456",
+        "Correo": "master.of.punky@gmail.com",
+        "Token": "",
+        "Estatus": "INACTIVO",
+        "CodigoPais":"52",
+        "Telefono":"9612619968",
+        "IdRol":1
+      
 }
+]
